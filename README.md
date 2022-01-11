@@ -1,5 +1,6 @@
 # CppLibPackage
 Runtime Library MT/MTd only, x86 and x64
+2022 vcpkg로 빌드했음.
 
 # 구성
 * Cryptopp
@@ -19,3 +20,6 @@ Runtime Library MT/MTd only, x86 and x64
 * Protobuf
   * protobuf_3.18.0_x64_static
   * protobuf_3.18.0_x86_static
+
+# CopyRight
+각 파일안에 있음.
