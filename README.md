@@ -1,7 +1,7 @@
 # CppLibPackage
 * Runtime Library MT/MTd only, x86 and x64
 * 2022 vcpkg사용해서 아래 커맨드로 빌드했음.
-* [LIB_NAME]:x64 or x86 -static
+  * [LIB_NAME]:x64 or x86 -static
 
 # 구성
 * Cryptopp
