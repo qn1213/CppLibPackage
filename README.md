@@ -13,7 +13,7 @@
   * curl-7.80.0_x86_static => include zlib_1.2.11
   * Preprocessor => CURL_STATICLIB
   * Add Dependency => 
-    * Debug : libcurl-d.lib, crypt32.lib, zlib.lib
+    * Debug : libcurl-d.lib, crypt32.lib, zlibd.lib
     * Release : libcurl.lib, crypt32.lib, zlib.lib
 
 * JsonCpp
